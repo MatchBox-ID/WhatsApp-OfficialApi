@@ -1,0 +1,53 @@
+//hanya untuk user yang sudah terdaftar
+//token yang sudah terpakai tidak dapat dipakai lagi dan dikenakan biaya berlangganan
+{
+ "ussername:BOTCAHX"
+ "password:mvpxxt71"
+ "token:MBOTV2"
+ "masa.aktif:{unlimited{premium.sultan"
+}
+{
+ "ussername:zeeoneofc"
+ "password:mv1iajap"
+ "token:MBOTV3"
+ "masa.aktif:{unlimited{premium.sultan"
+}
+{
+ "ussername:kurrxdstore"
+ "password:jav6t19ys"
+ "token:MBOTV4"
+ "masa.aktif:{unlimited{premium.sultan"
+}
+{
+ "ussername:matchbox"
+ "password:kbayw1q9y"
+ "token:MBOTOFFICIAL"
+ "masa.aktif:{unlimited{official.pack"
+}
+{
+ "ussername:${ussername5}"
+ "password:${password}"
+ "token:${token.apikey}"
+ "masa.aktif:${masa.aktif-owner}"
+}
+{
+ "ussername:${ussername6}"
+ "password:${password}"
+ "token:${token.apikey}"
+ "masa.aktif:${masa.aktif-owner}"
+}
+{
+ "ussername:${ussername7}"
+ "password:${password}"
+ "token:${token.apikey}"
+ "masa.aktif:${masa.aktif-owner}"
+}
+{
+ "ussername:${ussername8}"
+ "password:${password}"
+ "token:${token.apikey}"
+ "masa.aktif:${masa.aktif-owner}"
+}
+{
+{if{baris-baru{\\markdown/n/n/n
+}

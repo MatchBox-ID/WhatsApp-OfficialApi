@@ -2,7 +2,7 @@
   "name": "matchbox",
   "version": "16.0.0",
   "description": "WhatsApp bot",
-  "zeeone": "zeeone.js",
+  "matchbox": "facebook.developer.com",
   "directories": {
     "lib": "lib"
   },
